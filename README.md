@@ -21,7 +21,6 @@ Discover the highest-rated movies on IMDB and indulge in cinematic masterpieces.
 
 - **React.js:** A powerful JavaScript library for building user interfaces.
 - **Material UI:** A React UI framework that implements Google's Material Design principles, providing a sleek and responsive design.
-- **Context API:** A React feature for managing global state, allowing seamless data sharing between components.
 
 ## How to Use
 
