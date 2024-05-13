@@ -12,7 +12,7 @@
 
 @media (max-width: 700px) {
   .app {
-    padding-top: 70px;
+    padding-top: 50px;
   }
 }
 
@@ -21,7 +21,7 @@
   display: flex;
   justify-content: center;
   font-family: "Montserrat", sans-serif;
-  font-size: 2vw;
+  font-size: 3.5vw;
   padding: 4px;
   border-radius: 50px;
   color: white;
@@ -29,6 +29,20 @@
 
 @media (max-width: 1000px) {
   .pageTitle {
+    
     font-size: 6.4vw;
+     
+     padding-bottom: 50px;
+  border-radius: 50px;
+  color: white;
+  }
+}
+@media (max-width: 700px) {
+  .pageTitle {
+    font-size: 6.4vw;
+     padding-top: 50px;
+     padding-bottom: 40px;
+  border-radius: 40px;
+  color: white;
   }
 }
